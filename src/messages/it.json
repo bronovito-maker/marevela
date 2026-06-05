@@ -80,6 +80,20 @@
     "formMessagePlaceholder": "Tipologia di veicolo, orario di arrivo stimato...",
     "formSubmit": "Invia Richiesta"
   },
+  "FAQ": {
+    "title": "Domande Frequenti",
+    "subtitle": "Tutto quello che devi sapere per una sosta senza pensieri.",
+    "q1": "Il parcheggio è aperto 24 ore su 24?",
+    "a1": "Sì, il nostro parcheggio è custodito e accessibile 24 ore su 24, 7 giorni su 7, con personale sempre presente in loco.",
+    "q2": "Il parcheggio è sicuro?",
+    "a2": "Assolutamente. L'area è interamente coperta da videosorveglianza h24 ed è sempre presidiata dal nostro staff per garantire la massima sicurezza del tuo veicolo.",
+    "q3": "Quanto distano le principali attrazioni turistiche dal parcheggio?",
+    "a3": "Siamo in una posizione centralissima e strategica:\n• Spiaggia del Pozzillo (Discesa Waikiki): 0 minuti (sei già arrivato)\n• Porto Turistico di San Marco (Yacht & Boat Charter): 12 min a piedi\n• Sentiero Naturalistico di Punta Licosa: 12 min a piedi (imbocco al Porto)\n• Molo Romano Sommergibile (Archeologia Subacquea): 15 min a piedi",
+    "q4": "Posso prenotare un posto auto in anticipo?",
+    "a4": "Certamente. Consigliamo fortemente la prenotazione anticipata, specialmente nei mesi estivi. Puoi contattarci comodamente tramite WhatsApp per riservare il tuo posto.",
+    "q5": "È possibile parcheggiare veicoli di grandi dimensioni?",
+    "a5": "Per SUV, furgoni o veicoli particolarmente ingombranti ti preghiamo di contattarci in anticipo, in modo da poterti assegnare lo stallo più comodo e adeguato."
+  },
   "Footer": {
     "description": "L'eccellenza dell'ospitalità a San Marco di Castellabate. Il tuo parcheggio di lusso a due passi dal mare.",
     "whereTitle": "Dove Siamo",

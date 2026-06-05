@@ -80,6 +80,20 @@
     "formMessagePlaceholder": "Fahrzeugtyp, voraussichtliche Ankunftszeit...",
     "formSubmit": "Anfrage Senden"
   },
+  "FAQ": {
+    "title": "Häufig Gestellte Fragen",
+    "subtitle": "Alles, was Sie für einen sorgenfreien Aufenthalt wissen müssen.",
+    "q1": "Ist der Parkplatz rund um die Uhr geöffnet?",
+    "a1": "Ja, unser Parkplatz ist bewacht und rund um die Uhr zugänglich, mit Personal, das immer vor Ort ist.",
+    "q2": "Ist der Parkplatz sicher?",
+    "a2": "Absolut. Das gesamte Gelände wird rund um die Uhr videoüberwacht und ist immer mit unserem Personal besetzt, um maximale Sicherheit für Ihr Fahrzeug zu gewährleisten.",
+    "q3": "Wie weit sind die wichtigsten Sehenswürdigkeiten vom Parkplatz entfernt?",
+    "a3": "Wir befinden uns in einer sehr zentralen und strategischen Lage:\n• Strand Pozzillo (Waikiki-Abstieg): 0 Minuten (Sie sind schon da)\n• Yachthafen San Marco (Yacht & Boat Charter): 12 Min. zu Fuß\n• Naturpfad Punta Licosa: 12 Min. zu Fuß (Beginn am Hafen)\n• Versunkener Römischer Pier (Unterwasserarchäologie): 15 Min. zu Fuß",
+    "q4": "Kann ich im Voraus einen Parkplatz reservieren?",
+    "a4": "Sicherlich. Wir empfehlen dringend, im Voraus zu buchen, besonders in den Sommermonaten. Sie können uns ganz einfach über WhatsApp kontaktieren, um Ihren Platz zu reservieren.",
+    "q5": "Ist es möglich, große Fahrzeuge zu parken?",
+    "a5": "Für SUVs, Vans oder besonders große Fahrzeuge kontaktieren Sie uns bitte im Voraus, damit wir Ihnen den bequemsten und passendsten Platz zuweisen können."
+  },
   "Footer": {
     "description": "Exzellenz in der Gastfreundschaft in San Marco di Castellabate. Ihr Luxusparkplatz nur wenige Schritte vom Meer entfernt.",
     "whereTitle": "Wo Sie Uns Finden",

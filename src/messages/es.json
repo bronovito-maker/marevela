@@ -80,6 +80,20 @@
     "formMessagePlaceholder": "Tipo de vehículo, hora estimada de llegada...",
     "formSubmit": "Enviar Solicitud"
   },
+  "FAQ": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Todo lo que necesitas saber para una estancia sin preocupaciones.",
+    "q1": "¿El aparcamiento está abierto las 24 horas?",
+    "a1": "Sí, nuestro aparcamiento está vigilado y es accesible las 24 horas del día, los 7 días de la semana, con personal siempre in situ.",
+    "q2": "¿El aparcamiento es seguro?",
+    "a2": "Absolutamente. Toda el área está cubierta por videovigilancia las 24 horas y siempre está custodiada por nuestro personal para garantizar la máxima seguridad de tu vehículo.",
+    "q3": "¿A qué distancia se encuentran las principales atracciones turísticas?",
+    "a3": "Estamos en una ubicación muy céntrica y estratégica:\n• Playa de Pozzillo (Bajada Waikiki): 0 minutos (ya has llegado)\n• Puerto Turístico de San Marco (Yacht & Boat Charter): 12 min a pie\n• Sendero Natural de Punta Licosa: 12 min a pie (inicio en el Puerto)\n• Muelle Romano Sumergido (Arqueología Subacuática): 15 min a pie",
+    "q4": "¿Puedo reservar una plaza de aparcamiento con antelación?",
+    "a4": "Ciertamente. Recomendamos encarecidamente reservar con antelación, especialmente durante los meses de verano. Puedes contactarnos cómodamente a través de WhatsApp para reservar tu plaza.",
+    "q5": "¿Es posible aparcar vehículos grandes?",
+    "a5": "Para SUV, furgonetas o vehículos particularmente grandes, contáctanos con antelación para que podamos asignarte la plaza más cómoda y adecuada."
+  },
   "Footer": {
     "description": "La excelencia de la hospitalidad en San Marco di Castellabate. Tu aparcamiento de lujo a dos pasos del mar.",
     "whereTitle": "Dónde Estamos",
