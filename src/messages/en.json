@@ -1,0 +1,94 @@
+{
+  "Metadata": {
+    "title": "MareVela Parking | San Marco di Castellabate",
+    "description": "Your front-row seat to the sea. 24/7 parking near Pozzillo beach."
+  },
+  "HomePage": {
+    "title": "Welcome to MareVela Parking"
+  },
+  "Hero": {
+    "subtitle": "San Marco di Castellabate",
+    "title": "The privilege of arriving. Your exclusive parking spot steps from the sea.",
+    "description": "Your reserved spot in the front row for Pozzillo beach. An exclusive, safe, and stress-free parking experience.",
+    "ctaPrimary": "View Rates",
+    "ctaSecondary": "Request Availability",
+    "ctaMaps": "Get Directions"
+  },
+  "Features": {
+    "title": "The MareVela Experience",
+    "subtitle": "Not just a parking lot, but the perfect start to your day at the beach. A premium service designed for those who seek utmost convenience.",
+    "feature1": {
+      "title": "Open 24/7",
+      "desc": "Guaranteed accessibility at all times, with staff always ready to welcome you, day and night."
+    },
+    "feature2": {
+      "title": "Security & Discretion",
+      "desc": "A secure and guarded area where you can leave your vehicle with complete peace of mind."
+    },
+    "feature3": {
+      "title": "Prime Location",
+      "desc": "Located right at the start of the Waikiki descent, just a few meters from the renowned Pozzillo beach."
+    },
+    "feature4": {
+      "title": "Premium Service",
+      "desc": "Hospitality refined down to the smallest detail to make you feel on vacation from the very first moment."
+    }
+  },
+  "Pricing": {
+    "title": "Our Rates",
+    "subtitle": "Choose the level of service you prefer. Transparent rates for an unparalleled experience.",
+    "popularBadge": "Most Popular",
+    "cta": "Request Availability",
+    "daily": {
+      "title": "Premium Day",
+      "price": "€25",
+      "period": "day",
+      "feat1": "Guaranteed 24/7 access",
+      "feat2": "Continuous surveillance",
+      "feat3": "Staff assistance"
+    },
+    "weekly": {
+      "title": "Weekly VIP",
+      "price": "€140",
+      "period": "week",
+      "feat1": "Reserved and numbered spot",
+      "feat2": "Priority 24/7 access",
+      "feat3": "Continuous surveillance",
+      "feat4": "Dedicated welcome service"
+    },
+    "monthly": {
+      "title": "Monthly Elite",
+      "price": "€450",
+      "period": "month",
+      "feat1": "Covered parking (if available)",
+      "feat2": "Absolute priority 24/7",
+      "feat3": "Dedicated concierge"
+    }
+  },
+  "Contact": {
+    "title": "Reserve Your Spot",
+    "description": "Contact our reception to request availability or receive a personalized offer for your stay in San Marco di Castellabate.",
+    "phoneLabel": "Call Reception",
+    "emailLabel": "Email Us",
+    "formName": "Full Name",
+    "formNamePlaceholder": "John Doe",
+    "formEmail": "Email Address",
+    "formEmailPlaceholder": "john.doe@email.com",
+    "formArrival": "Arrival Date",
+    "formDeparture": "Departure Date",
+    "formMessage": "Special Requests",
+    "formMessagePlaceholder": "Vehicle type, estimated arrival time...",
+    "formSubmit": "Send Request"
+  },
+  "Footer": {
+    "description": "Excellence in hospitality in San Marco di Castellabate. Your luxury parking spot just steps from the sea.",
+    "whereTitle": "Where to Find Us",
+    "openMaps": "Open in Google Maps",
+    "contactTitle": "Contact Us",
+    "open247": "Open 24/7",
+    "alwaysOpen": "7 days a week, all year round.",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy"
+  }
+}
