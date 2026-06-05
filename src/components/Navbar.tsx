@@ -30,6 +30,7 @@ export default function Navbar() {
     { code: "en", label: "EN" },
     { code: "fr", label: "FR" },
     { code: "de", label: "DE" },
+    { code: "es", label: "ES" },
   ];
 
   return (
